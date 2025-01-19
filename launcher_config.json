@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.40.93b0a1",
-	"launcherVersion": "1.2",
+	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "bin",
-	"newClientUrl" : "https://github.com/LeoTKBR/launcherconfig/releases/download/1.2.0/cliente.zip",
+	"newClientUrl" : "https://github.com/LeoTKBR/launcherconfig/releases/download/1.0.0/cliente.zip",
 	"clientExecutable": "client.exe"
 }
